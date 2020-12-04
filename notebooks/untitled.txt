@@ -1,0 +1,6 @@
+install list
+
+numpy
+pandas
+matplotlib
+pyterrier
